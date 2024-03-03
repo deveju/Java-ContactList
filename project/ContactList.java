@@ -1,0 +1,66 @@
+package project;
+
+public class ContactList {
+    public static Contact c1 = new Contact("Fran", 25, "fransilva@example.com", "Brazil", "4 Privet Drive, Little Whinging");
+
+    // AI-Generated Objects with ages
+    public static Contact c2 = new Contact("John", 30, "john@example.com", "United States", "123 Main St");
+    public static Contact c3 = new Contact("Alice", 35, "alice@example.com", "Canada", "456 Elm St");
+    public static Contact c4 = new Contact("Bob", 40, "bob@example.com", "Australia", "789 Oak St");
+    public static Contact c5 = new Contact("Emma", 45, "emma@example.com", "Germany", "101 Pine St");
+    public static Contact c6 = new Contact("Michael", 50, "michael@example.com", "France", "202 Maple St");
+    public static Contact c7 = new Contact("Sophia", 55, "sophia@example.com", "Italy", "303 Cedar St");
+    public static Contact c8 = new Contact("William", 60, "william@example.com", "Spain", "404 Birch St");
+    public static Contact c9 = new Contact("Olivia", 65, "olivia@example.com", "India", "505 Walnut St");
+    public static Contact c10 = new Contact("James", 67, "james@example.com", "Japan", "606 Spruce St");
+    public static Contact c11 = new Contact("Charlotte", 22, "charlotte@example.com", "China", "707 Pineapple St");
+    public static Contact c12 = new Contact("Alexander", 34, "alexander@example.com", "Russia", "808 Banana St");
+    public static Contact c13 = new Contact("Amelia", 42, "amelia@example.com", "Argentina", "909 Mango St");
+    public static Contact c14 = new Contact("Benjamin", 29, "benjamin@example.com", "Belgium", "111 Coconut St");
+    public static Contact c15 = new Contact("Mia", 38, "mia@example.com", "Mexico", "222 Papaya St");
+    public static Contact c16 = new Contact("Ethan", 46, "ethan@example.com", "Egypt", "333 Grape St");
+    public static Contact c17 = new Contact("Evelyn", 52, "evelyn@example.com", "England", "444 Cherry St");
+    public static Contact c18 = new Contact("Jacob", 63, "jacob@example.com", "Japan", "555 Lemon St");
+    public static Contact c19 = new Contact("Ava", 21, "ava@example.com", "Australia", "666 Orange St");
+    public static Contact c20 = new Contact("Liam", 31, "liam@example.com", "Luxembourg", "777 Lime St");
+    public static Contact c21 = new Contact("Sophie", 41, "sophie@example.com", "France", "10 Rue de la Paix");
+    public static Contact c22 = new Contact("Lucas", 37, "lucas@example.com", "Brazil", "Av. Paulista, 1234");
+    public static Contact c23 = new Contact("Emily", 26, "emily@example.com", "United Kingdom", "25 Baker Street");
+    public static Contact c24 = new Contact("Noah", 50, "noah@example.com", "Canada", "100 Yonge St");
+    public static Contact c25 = new Contact("Isabella", 29, "isabella@example.com", "Italy", "Via Roma, 1");
+    public static Contact c26 = new Contact("Mason", 33, "mason@example.com", "United States", "1600 Pennsylvania Ave NW");
+    public static Contact c27 = new Contact("Charlotte", 39, "charlotte@example.com", "Australia", "50 George St");
+    public static Contact c28 = new Contact("Logan", 43, "logan@example.com", "Germany", "Brandenburg Gate");
+    public static Contact c29 = new Contact("Oliver", 55, "oliver@example.com", "Spain", "Plaza Mayor, 1");
+    public static Contact c30 = new Contact("Amelia", 60, "amelia@example.com", "France", "Champs-Élysées, 100");
+    public static Contact c31 = new Contact("Elijah", 27, "elijah@example.com", "New Zealand", "1 Queen Street");
+    public static Contact c32 = new Contact("Avery", 49, "avery@example.com", "Netherlands", "Dam Square");
+    public static Contact c33 = new Contact("Sophia", 32, "sophia@example.com", "Greece", "Acropolis of Athens");
+    public static Contact c34 = new Contact("Liam", 20, "liam@example.com", "South Africa", "Table Mountain");
+    public static Contact c35 = new Contact("Ava", 45, "ava@example.com", "Switzerland", "Bahnhofstrasse");
+    public static Contact c36 = new Contact("Jackson", 52, "jackson@example.com", "India", "Taj Mahal");
+    public static Contact c37 = new Contact("Harper", 33, "harper@example.com", "Sweden", "Vasa Museum");
+    public static Contact c38 = new Contact("Ethan", 28, "ethan@example.com", "Mexico", "Palacio de Bellas Artes");
+    public static Contact c39 = new Contact("Amelia", 59, "amelia@example.com", "Ireland", "Dublin Castle");
+    public static Contact c40 = new Contact("Liam", 41, "liam@example.com", "Argentina", "Plaza de Mayo");
+    public static Contact c41 = new Contact("Mia", 47, "mia@example.com", "China", "Great Wall of China");
+    public static Contact c42 = new Contact("Lucas", 36, "lucas@example.com", "Japan", "Mount Fuji");
+    public static Contact c43 = new Contact("Emma", 26, "emma@example.com", "South Korea", "Gyeongbokgung Palace");
+    public static Contact c44 = new Contact("Olivia", 33, "olivia@example.com", "Russia", "Red Square");
+    public static Contact c45 = new Contact("Elijah", 51, "elijah@example.com", "France", "Louvre Museum");
+    public static Contact c46 = new Contact("Avery", 55, "avery@example.com", "Italy", "Colosseum");
+    public static Contact c47 = new Contact("Jackson", 48, "jackson@example.com", "Canada", "Niagara Falls");
+    public static Contact c48 = new Contact("Sophie", 29, "sophie@example.com", "Spain", "Park Güell");
+    public static Contact c49 = new Contact("Oliver", 33, "oliver@example.com", "Australia", "Sydney Opera House");
+    public static Contact c50 = new Contact("Charlotte", 42, "charlotte@example.com", "Germany", "Neuschwanstein Castle");
+    public static Contact c51 = new Contact("Pedro", 18, "pedro@example.com", "Brazil", "Av. Paulista, 123");
+    public static Contact c52 = new Contact("Ana", 22, "ana@example.com", "Brazil", "Rua Oscar Freire, 456");
+    public static Contact c53 = new Contact("Giovanna", 30, "giovanna@example.com", "Brazil", "Av. Atlântica, 789");
+    public static Contact c54 = new Contact("Lucas", 42, "lucas@example.com", "Brazil", "Av. Rio Branco, 101");
+    public static Contact c55 = new Contact("Isabela", 35, "isabela@example.com", "Brazil", "Av. Copacabana, 202");
+    public static Contact c56 = new Contact("Diogo", 67, "diogo@example.com", "Portugal", "Rua de Santa Catarina, 123");
+    public static Contact c57 = new Contact("Mariana", 45, "mariana@example.com", "Portugal", "Avenida da Liberdade, 456");
+    public static Contact c58 = new Contact("Tiago", 40, "tiago@example.com", "Portugal", "Rua Augusta, 789");
+    public static Contact c59 = new Contact("Inês", 32, "ines@example.com", "Portugal", "Rua de São Bento, 101");
+    public static Contact c60 = new Contact("Joana", 29, "joana@example.com", "Portugal", "Praça do Comércio, 202");
+}
