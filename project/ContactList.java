@@ -1,7 +1,7 @@
 package project;
 
 public class ContactList {
-    public static Contact c1 = new Contact("Fran", 25, "fransilva@example.com", "Brazil", "4 Privet Drive, Little Whinging");
+    public static Contact c1 = new Contact("deveju", 25, "deveju@example.com", "Brazil", "4 Privet Drive, Little Whinging");
 
     // AI-Generated Objects with ages
     public static Contact c2 = new Contact("John", 30, "john@example.com", "United States", "123 Main St");
